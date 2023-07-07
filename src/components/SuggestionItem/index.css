@@ -1,0 +1,13 @@
+.suggestion-item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10px;
+  align-items: center;
+  cursor: pointer;
+}
+
+.suggestion-icon {
+  height: 100%;
+  width: 25px;
+}
